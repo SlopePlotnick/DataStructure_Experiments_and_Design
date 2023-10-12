@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "6828d28318a5d810c36200ec856ab07e9ec8061b52aa5db428290a65cdfea662"
+    }
+  ],
+  "containerPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第六次实验/俄罗斯方块/俄罗斯方块.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第六次实验/俄罗斯方块/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第六次实验/俄罗斯方块/Build/Products",
+      "derivedDataPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData/俄罗斯方块-damsgeqkqskutaauhwbqsavngimx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData/俄罗斯方块-damsgeqkqskutaauhwbqsavngimx/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第六次实验/俄罗斯方块/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

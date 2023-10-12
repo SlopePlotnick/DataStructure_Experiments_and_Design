@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "addPackages():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "phoneNumbers.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "readFromFiles():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p.getCode">
+            </PersistentString>
+            <PersistentString
+               value = "p.size">
+            </PersistentString>
+            <PersistentString
+               value = "p.code">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "outIntoFile():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "it-&gt;timeAlreadySaved">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

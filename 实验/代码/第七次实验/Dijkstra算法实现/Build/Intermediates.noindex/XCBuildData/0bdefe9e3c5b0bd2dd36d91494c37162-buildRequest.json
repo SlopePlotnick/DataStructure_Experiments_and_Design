@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "0eb8f61d5ecaba0154fb2ad9a23dbfeda47214bbffe26fd9a7f085e3e396ed68"
+    }
+  ],
+  "containerPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第七次实验/Dijkstra算法实现/Dijkstra算法实现.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第七次实验/Dijkstra算法实现/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第七次实验/Dijkstra算法实现/Build/Products",
+      "derivedDataPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData/Dijkstra算法实现-dxbbwvjjvotlzpgcgiqynienbzxn/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData/Dijkstra算法实现-dxbbwvjjvotlzpgcgiqynienbzxn/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/第七次实验/Dijkstra算法实现/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

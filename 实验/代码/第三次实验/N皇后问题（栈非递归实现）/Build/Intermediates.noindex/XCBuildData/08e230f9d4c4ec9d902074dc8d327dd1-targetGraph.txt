@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+N皇后问题（栈非递归实现） in N皇后问题（栈非递归实现）, no dependencies

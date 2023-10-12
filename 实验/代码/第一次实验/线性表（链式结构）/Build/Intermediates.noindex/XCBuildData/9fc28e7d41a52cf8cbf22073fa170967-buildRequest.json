@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2b519fab21462c018081ac5ee1fc892bf54f3ec026f1ea339ded42279c52d779"
+    }
+  ],
+  "containerPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/线性表（链式结构）/线性表（链式结构）.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/线性表（链式结构）/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/线性表（链式结构）/Build/Products",
+      "derivedDataPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData/线性表（链式结构）-aqtoehditqyqjrhbmkuvmxmdkulz/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/plotnickslope/Library/Developer/Xcode/DerivedData/线性表（链式结构）-aqtoehditqyqjrhbmkuvmxmdkulz/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/plotnickslope/Library/Mobile Documents/com~apple~CloudDocs/数据结构/代码/线性表（链式结构）/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
